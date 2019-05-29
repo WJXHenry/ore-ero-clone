@@ -7,8 +7,8 @@ releases:
         fr: 'https://github.com/yeg-relief/youcanbenefit/issues'
       email: jaredrewerts@gmail.com
     date:
-      created: 2016-06-16
-      metadataLastUpdated: 2019-01-29
+      created: '2016-06-16'
+      metadataLastUpdated: '2019-01-29'
     description:
       en: >-
         YouCanBenefit is a web application that increases social benefit program
@@ -31,6 +31,39 @@ releases:
       en: 'https://github.com/yeg-relief/youcanbenefit'
       fr: 'https://github.com/yeg-relief/youcanbenefit'
     status: Production
+    tags:
+      en:
+        - Social Benefits
+      fr:
+        - Avantages Sociaux
+    vcs: git
+  - contact:
+      URL:
+        en: 'https://github.com/yeg-relief/youcanbenefit/issues'
+        fr: 'https://github.com/yeg-relief/youcanbenefit/issues'
+    date:
+      created: '2016-06-16'
+      metadataLastUpdated: '2019-05-29'
+    description:
+      en: >-
+        YouCanBenefit is a web application that increases social benefit program
+        discoverability for people of lesser means and their allies.
+      fr: >-
+        YouCanBenefit est une application Web qui augmente la découvrabilité des
+        programmes d'avantages sociaux pour les personnes moins fortunées et
+        leurs alliés.
+    name:
+      en: YouCanBenefitasdasdasd
+      fr: YouCanBenefitasdasdasda
+    licenses:
+      - URL:
+          en: 'https://github.com/yeg-relief/youcanbenefit/blob/master/LICENSE'
+          fr: 'https://github.com/yeg-relief/youcanbenefit/blob/master/LICENSE'
+          spdxID: MIT
+    repositoryURL:
+      en: 'https://github.com/yeg-relief/youcanbenefit'
+      fr: 'https://github.com/yeg-relief/youcanbenefit'
+    status: null
     tags:
       en:
         - Social Benefits

@@ -7,7 +7,8 @@
 
 # Site settings
 baseurl: "/ore-ero" # the subpath of your site, e.g. /blog
-url: "https://canada-ca.github.io/ore-ero" # the base hostname & protocol for your site
+# url: "https://canada-ca.github.io/ore-ero" # the base hostname & protocol for your site
+url: "https://wjxhenry.github.io/ore-ero"
 github_username: canada-ca
 github_repository: ore-ero
 prbot_url: "https://canada-pr-bot.herokuapp.com/"
